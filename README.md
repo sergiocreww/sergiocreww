@@ -31,7 +31,7 @@ Mi nombre es Sergio Andres Mora Camacho soy Desarrollador de Software con experi
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![VS Community](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 
 ---
