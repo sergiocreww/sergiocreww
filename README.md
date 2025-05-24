@@ -42,7 +42,7 @@ Mi nombre es Sergio Andres Mora Camacho soy Desarrollador de Software con experi
 
 [![Portafolio](https://img.shields.io/badge/-Mi%20Portafolio-000?style=flat&logo=firefox&logoColor=white)](https://sergiocreww.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiocreww-webdeveloper/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sergiocreww)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sergiocreww_webdeveloper/)
 
 
 ---
